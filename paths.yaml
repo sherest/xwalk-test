@@ -1,4 +1,4 @@
 mappings:
- - /content/xwalk-test/:/
- - /content/xwalk-test/metadata.json:/metadata.json
- - /content/xwalk-test/redirects.json:/redirects.json
+ - /content/cross-test/:/
+ - /content/cross-test/metadata.json:/metadata.json
+ - /content/cross-test/redirects.json:/redirects.json
